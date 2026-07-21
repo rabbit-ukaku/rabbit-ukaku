@@ -1,8 +1,8 @@
 <div align="center">
 
-  ![views](https://komarev.com/ghpvc/?username=rabbit-ukaku&label=bodies&color=593bc4&style=plastic)
+  ![views](https://komarev.com/ghpvc/?username=rabbit-ukaku&label=bodies&color=000000&style=plastic)
   
-![](https://files.catbox.moe/95y6v2.gif)
+![](https://files.catbox.moe/2mpdua.jpg)
 <a href="https://lovebitez.atabook.org/">
   <img src="https://files.catbox.moe/a00wqv.png" width="80">
 </a>
