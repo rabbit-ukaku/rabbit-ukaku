@@ -7,7 +7,7 @@
 ![](https://files.catbox.moe/2mpdua.jpg)
 
 <a href="https://lovebitez.atabook.org/">
-  <img src="https://files.catbox.moe/a00wqv.png" width="80">
+  <img src="https://files.catbox.moe/l2yeyn.png" width="80">
 </a>
 <a href="https://rentry.co/fedorafate/">
   <img src="https://files.catbox.moe/9ic82q.png" width="80">
